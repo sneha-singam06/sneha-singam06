@@ -19,13 +19,14 @@ I’m Sneha, a passionate learner building projects that solve real problems. I 
 
 🛠️ Skills
 
-Languages & Tools: HTML, CSS, JavaScript, Python, Java, Git, GitHub, VS Code
+**Languages & Tools: HTML, CSS, JavaScript, Python, Java, Git, GitHub, VS Code
 
 Frameworks & Libraries: React (learning), Bootstrap, Flask (basic)
 
 🚀 Featured Projects
+🔹 Sneha Ecommerce Website
 
-(Currently updating — projects will be added later)
+Repo: https://github.com/sneha-singam06/sneha-ecommerce-website A fully customized ecommerce website branded and developed by Sneha Singam using HTML, CSS, and JavaScript.
 
 📫 Contact
 
